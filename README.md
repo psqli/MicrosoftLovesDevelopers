@@ -1,6 +1,6 @@
 <sup>| [pt](#pt) |</sup>
 
-Because [Microsoft loves developers](https://blogs.microsoft.com/blog/2021/05/25/microsoft-loves-developers-welcome-to-build-2021), it made a solution for activating Windows available through a pre-configured server defined by the developer. It is identical to the activation system used by many Microsoft customer companies, except for the use of an open source server not licensed for commercial use. If you are a developer and are having difficulty using Windows features that depend on activation (such as Remote Desktop), follow the steps below:
+Because [Microsoft loves developers](https://blogs.microsoft.com/blog/2021/05/25/microsoft-loves-developers-welcome-to-build-2021), it made a solution for activating Windows available through a pre-configured server defined by the developer. It is identical to the activation system used by many Microsoft customer companies, except for the use of an open source server which is not licensed for commercial use. If you are a developer and are having difficulty using Windows features that depend on activation (such as Remote Desktop), follow the steps below:
 
 _Important: Run the commands below at the prompt with administrator privileges._
 
