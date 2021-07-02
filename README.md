@@ -1,3 +1,5 @@
+<sup>| [portuguese](#portuguese) |</sup>
+
 Because Microsoft loves developers, it made a solution for activating Windows available through a pre-configured server defined by the developer. It is identical to the activation system used by many Microsoft customer companies, except for the use of an open source server not licensed for commercial use. If you are a developer and are having difficulty using Windows features that depend on activation (such as Remote Desktop), follow the steps below:
 
 _Important: Run the commands below at the prompt with administrator privileges._
@@ -25,6 +27,8 @@ _slmgr = Software Licensing ManaGeR_
    _ato = AcTivate Online_
 
 -----------------------------
+
+# Portuguese
 
 Como a Microsoft ama os desenvolvedores, ela disponibilizou uma solução para ativação do Windows através de um servidor pré-configurado definido pelo desenvolvedor. É idêntico ao sistema de ativação usado por muitas empresas clientes da Microsoft, exceto pelo uso de um servidor de código aberto não licenciado para uso comercial. Se você é desenvolvedor e está com dificuldades para usar recursos do Windows que dependem da ativação (como a Área de Trabalho Remota), siga os passos abaixo:
 
